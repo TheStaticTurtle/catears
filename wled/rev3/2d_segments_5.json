@@ -1,0 +1,156 @@
+{
+ "on": true,
+ "ledmap": 1,
+ "seg": [
+  {
+   "id": 0,
+   "n": "Front A",
+   "start": 0,
+   "stop": 22,
+   "startY": 0,
+   "stopY": 25,
+   "grp": 1,
+   "spc": 0,
+   "on": true,
+   "frz": false,
+   "bri": 26,
+   "fx": 186,
+   "col": [
+    [
+     255,
+     136,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 1,
+   "n": "Front B",
+   "start": 22,
+   "stop": 44,
+   "startY": 0,
+   "stopY": 25,
+   "grp": 1,
+   "spc": 0,
+   "on": true,
+   "frz": false,
+   "bri": 26,
+   "fx": 186,
+   "col": [
+    [
+     255,
+     136,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "n": "Back B",
+   "start": 44,
+   "stop": 66,
+   "startY": 0,
+   "stopY": 25,
+   "grp": 1,
+   "spc": 0,
+   "on": true,
+   "frz": false,
+   "bri": 26,
+   "fx": 186,
+   "col": [
+    [
+     255,
+     136,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "n": "Back A",
+   "start": 66,
+   "stop": 88,
+   "startY": 0,
+   "stopY": 25,
+   "grp": 1,
+   "spc": 0,
+   "on": true,
+   "frz": false,
+   "bri": 26,
+   "fx": 186,
+   "col": [
+    [
+     255,
+     136,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ],
+    [
+     0,
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "n": "Band",
+   "start": 0,
+   "stop": 78,
+   "startY": 25,
+   "stopY": 26,
+   "grp": 1,
+   "spc": 0,
+   "on": true,
+   "frz": false,
+   "bri": 26,
+   "fx": 153
+  },
+  {
+   "id": 5,
+   "stop": 0
+  },
+  {
+   "id": 6,
+   "stop": 0
+  },
+  {
+   "id": 7,
+   "stop": 0
+  }
+ ]
+}
