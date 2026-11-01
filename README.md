@@ -20,7 +20,7 @@ Each ear and each side of the headband carries a small 2D matrix of tiny XL-1010
 
 - `cad/`: 3D models of the headband and ears
 - `electronics/`: KiCad projects for each PCB revision
-- `wled/`: WLED configuration (LED map for the 2D matrix)
+- `wled/`: WLED config, presets and the 2D LED map (generated from the KiCad netlist by `gen_ledmap.py`)
 
 ## Read more
 
