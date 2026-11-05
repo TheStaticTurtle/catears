@@ -25,7 +25,7 @@ Each ear and each side of the headband carries a small 2D matrix of tiny XL-1010
 ## Read more
 
 The full story, with the mistakes, photos and lessons learned, is in the article:
-**[Building high-tech catears for fun and definitively not profit](https://blog.thestaticturtle.fr/building-high-tech-catears-for-fun-and-definitively-not-profit)**
+**[Building high-tech catears for fun and definitively not profit](https://blog.thestaticturtle.fr/building-high-tech-catears-for-fun-and-definitely-not-profit)**
 
 ## License
 
